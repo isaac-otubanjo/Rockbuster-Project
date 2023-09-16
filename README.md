@@ -18,10 +18,13 @@ The dataset comprises of information on the following parameters:
 - Movie Revenue
 - Stores and Staff
 - Customers and Location
-- Rental Information
+- Rental Information 
 
 ## Tools
 The tools used in this analysis include:
 - Postgre SQL (pgAdmin 4 for analysis)
 - Excel (for visualization of selected tables and calculations)
 - Powerpoint (for presentation of results)
+
+## Resources
+Relevant resources have been uploaded
